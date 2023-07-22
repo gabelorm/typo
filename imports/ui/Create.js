@@ -5,7 +5,7 @@ export default class Create extends Component {
 		return (
 			<div className="col-sm-6">
 				<h1>Create a game</h1>
-				<label>
+				{/* <label>
 					Language:{" "}
 					<select
 						value={this.props.language}
@@ -16,7 +16,7 @@ export default class Create extends Component {
 						<option value="it">Italian</option>
 						<option value="de">German</option>
 					</select>
-				</label>
+				</label> */}
 				<br />
 				<label>
 					Private game:{" "}

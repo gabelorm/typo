@@ -17,7 +17,7 @@ class HomeHeaderUser extends Component {
 				<div className="row text-center">
 					<div className="col-sm-3">
 						<h1 className="display-1">
-							<Link to="/">TYPO</Link>
+							<Link to="/">eLearning</Link>
 						</h1>
 					</div>
 					<div className="col-sm-6 header-message">
